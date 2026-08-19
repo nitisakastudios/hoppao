@@ -24,7 +24,7 @@ const body = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://hoppao.id'),
+  metadataBase: new URL('https://hoppao.vercel.app'),
   title: 'HOPPAO: Bakpao Kukus Premium | Jogja & Surabaya',
   description:
     'Bakpao kukus dibuat dengan hati: dilipat tangan, dikukus setiap pagi di Jogja & Surabaya. Tanpa pengawet, tersedia frozen. No pork, no lard.',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: 'HOPPAO: Bakpao Kukus Premium | Jogja & Surabaya',
     description:
       'Dilipat tangan, dikukus setiap pagi di Jogja & Surabaya. Tersedia frozen dan pesanan event.',
-    url: 'https://hoppao.id',
+    url: 'https://hoppao.vercel.app',
     siteName: 'HOPPAO',
     locale: 'id_ID',
     type: 'website',
